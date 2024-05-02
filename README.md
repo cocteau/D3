@@ -1,3 +1,3 @@
-# scrolly
+# D3
 
-This will be our first scrollytelling site.
+This will be our first D3 site.
